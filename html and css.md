@@ -1,5 +1,7 @@
 # A summary of HTML and CSS
-### Ch 1 
+
+
+### Ch 1
 #### Each element has an opening tag and a closing tag example : * <h1>This is the Main Heading</h1> 
 ### Tags act like containers. They tell you something about the information that lies between their opening and closing tags.example * The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code.The closing </html> tag indicates that it is the end of the HTML code.
 ### <p> is an opening tagThe characters in the brackets indicate the tag's purpose. For example, in the tags above the p stands for paragraph. </p> is a closing tag
