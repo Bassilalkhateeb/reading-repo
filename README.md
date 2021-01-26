@@ -4,7 +4,7 @@
 ### * Table of contents: * 
 | Content |   Title    |
 | ------- | ---------- |
-|  [Main page](https://github.com/Bassilalkhateeb/reading-repo) | My main page |
+|  [Main page](https://github.com/Bassilalkhateeb) | My main page |
 | [Growthmindset](https://bassilalkhateeb.github.io/reading-repo/growthmindset) | Growthmindset |
 | [Markingdown](https://bassilalkhateeb.github.io/reading-repo/markingdown) | Markingdown |
 | [Gitintro](https://bassilalkhateeb.github.io/reading-repo/Gitintro) | Gitintro |
