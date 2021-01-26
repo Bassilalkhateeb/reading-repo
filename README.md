@@ -11,6 +11,6 @@
 - Wrok harder and harder.
 ### Hit the link to read more about The growth Mindset. [Growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 ### You can visit my Github page. [Bassilalkhateeb](https://github.com/Bassilalkhateeb)
-| Read1 | Read2 |
-| ----- | ----- |
+| 102Read |   Title    |
+| ------- | ---------- |
 | [Markdown](https://bassilalkhateeb.github.io/Markdown/) | [Getting started with Github](https://bassilalkhateeb.github.io/Gitintro/.) |
