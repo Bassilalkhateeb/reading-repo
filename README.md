@@ -5,4 +5,4 @@
 | Content |   Title    |
 | ------- | ---------- |
 |  [Main page](https://github.com/Bassilalkhateeb/reading-repo) | My main page |
-| [Markingdown](https://bassilalkhateeb.github.io/reading-repo/) | Markingdown |
+| [Growthmindset](https://github.com/Bassilalkhateeb/reading-repo/blob/main/markingdown.md) | Growthmindset |
