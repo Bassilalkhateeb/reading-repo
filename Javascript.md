@@ -5,7 +5,7 @@
 ### You could compare scripts to any of the following:
 * ### RECIPES
 * ### HANDBOOKS
-* ### MANUALS
+* ### MANUALS 
 ### A script is made of instructions that computer can follow step by step
 ### A script can run different section of the code depending on the situation around.
 ### WRITING A SCRIPT:
