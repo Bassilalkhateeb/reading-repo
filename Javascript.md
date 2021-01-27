@@ -8,12 +8,15 @@
 * ### MANUALS 
 ### A script is made of instructions that computer can follow step by step
 ### A script can run different section of the code depending on the situation around.
+
 * ### WRITING A SCRIPT:
 ### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 ### Start with the big picture of what you want to achieve, and break that down into smaller steps. 1: DEFINE THE GOAL First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve. 2: DESIGN THE SCRIPT To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart. You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow. 3: CODE EACH STEP Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
+
 ### Designing a script tasks 
 ### You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them.
 ### DEFINING A GOAL & DESIGNING THE SCRIPT
+
 ### The first thing you should do is detail your goals for the script (what you want it to achieve):
 ### Next, break it into a series of tasks that have to be performed in order to achieve the goals:
 ### SKETCHING OUT THE TASKS IN A FLOWCHART Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
@@ -22,7 +25,7 @@
 
 ### The conclusion :
 ### A script is a series of instructions that the computer can follow in order to achieve a goal.
- ### Each time the script runs, it might only use a subset of all the instructions. 
+### Each time the script runs, it might only use a subset of all the instructions. 
 ### Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
 ### To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
 ### EXPRESSIONS
