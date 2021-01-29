@@ -1,18 +1,18 @@
-var order= prompt("what do you want turkish or cuppatchino ?");
+var order = prompt('what do you want turkish or cappuccino');
 
-while (order !== "turkish" && order !== "cuppatchino") {
-
-    order= prompt("what do you want turkish or cuppatchino ?");
+while (order !== 'turkish' && order !== 'cappuccino') {
+  order = prompt('what do you want turkish or cappuccino');
 }
 
-var itemorder = '';
+var itemOrder = '';
 
-if (order === 'cappatchino'){
-    itemorder = 'img src= '
-}else if (order ==='turkish'){
-
+if (order === 'cappuccino') {
+  itemOrder = '<img src="images/cappuccino.jpg"/>';
+} else if (order === 'turkish') {
+  itemOrder = '<img src="images/turkish.jpg"/>';
 }
-var nocups = prompt('how many cups do u want?');
+
+var noCups = prompt('how many cups do you want?');
 
 var result = '';
 
