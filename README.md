@@ -14,4 +14,4 @@
  Get some T-shirts | [My render page](https://bassilalkhateeb.github.io/lab03/)
  Css colors | [Read06b](https://bassilalkhateeb.github.io/reading-repo/read06b)
  JS functions | [Read06a](https://bassilalkhateeb.github.io/reading-repo/read06a)
- 201 Readings | [201](https://bassilalkhateeb.github.io/reading-repo2/)
+ class02 | [02Read](https://bassilalkhateeb.github.io/reading-repo2/class02)
