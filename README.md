@@ -7,8 +7,8 @@
  Title | Link
  ------ | ------
  GitHub Page | [Main page](https://github.com/Bassilalkhateeb)
- Read1 | [Read1]()
- Read2 | [Read2]()
+ Growth Mindset | [Growthmindset](https://bassilalkhateeb.github.io/reading-repo/growthmindset)
+ Markdown | [Markingdown](https://bassilalkhateeb.github.io/reading-repo/markingdown)
  Read3 | [Read3]()
  Read4 | [Read4]()
  Read5 | [Read5]()
