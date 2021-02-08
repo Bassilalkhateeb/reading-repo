@@ -23,4 +23,5 @@
  ----- | -----
 preWork Reading | [preWork Reading](https://bassilalkhateeb.github.io/reading-repo2/class01)
 Read02 | [Read02](https://bassilalkhateeb.github.io/reading-repo2/class02)
+Read03 | [Read03](https://bassilalkhateeb.github.io/reading-repo2/class03)
 
