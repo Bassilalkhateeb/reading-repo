@@ -1,7 +1,9 @@
-# Reading-notes
-## I am Bassil alkhateeb, I am 26 years old , I have a bachlor degree in Civil Engineering
-## You are free to check out my page.
-### **Table of 102 contents:**
+
+# I am Bassil Alkhateeb, I am 26 years old , I have a bachelor's degree in Civil Engineering and currently I am learning coding.
+
+## You are free to check out my repo.
+
+**Table of 102 contents:**
 
 
  Title | Link
